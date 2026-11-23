@@ -1,0 +1,34 @@
+
+{
+	"schemaVersion": 1,
+	"id": "blooming-gardens",
+	"version": "${version}",
+	"name": "Blooming Gardens",
+	"description": "A cute flower mod bringing more flowers to Minecraft!",
+	"authors": [
+		"Elibear"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/blooming-gardens/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.elibear.bloominggardens.BloomingGardens"
+		],
+		"client": [
+			"com.elibear.bloominggardens.client.BloomingGardensClient"
+		],
+		"fabric-datagen": [
+			"com.elibear.bloominggardens.client.BloomingGardensDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

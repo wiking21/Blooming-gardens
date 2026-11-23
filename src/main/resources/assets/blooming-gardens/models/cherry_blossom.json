@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "blooming-gardens:block/cherry_blossom"
+  }
+}

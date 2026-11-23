@@ -1,35 +1,9 @@
-# 🌸 Blooming Gardens
+# Blooming Gardens
 
-A small Minecraft mod focused on adding more flowers and bringing a little more life to your world.
+## Setup
 
-## About
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
 
-Blooming Gardens is a Minecraft mod I'm making with Fabric. The idea is pretty simple: add new plants and flowers that make exploring, building and decorating more interesting.
+## License
 
-I'm still working on it, so expect things to change and new additions along the way!
-
-## Features
-
-- New flowers and plants
-- Custom textures
-- More ways to decorate your Minecraft builds
-- More content coming soon!
-
-## Installation
-
-1. Install [Fabric Loader](https://fabricmc.net/use/).
-2. Download the latest version of Blooming Gardens.
-3. Put the `.jar` file into your Minecraft `mods` folder.
-4. Launch Minecraft with Fabric.
-
-## Development
-
-This is a personal project that I'm building and learning from as I go. I'm using Java, Fabric and custom 16x16 textures.
-
-There is still a lot I'd like to add!
-
-## Credits
-
-Made by **Eli** ❤️
-
-Thanks for checking out Blooming Gardens!
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
